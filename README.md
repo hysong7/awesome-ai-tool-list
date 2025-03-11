@@ -60,6 +60,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/FreeAILogoMaker
 
+- [iPassportPhoto](https://www.ipassportphoto.com) - Make Standard Passport Photo online in 3s.
+  - **Tags**: `Passport` `Visa` `Photo` `AI` `Image-Editor`
+  - **Pricing**: Free tier
+  - **Contact**: https://x.com/Sparrrrrrkle
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
